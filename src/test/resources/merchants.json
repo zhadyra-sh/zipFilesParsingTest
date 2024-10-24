@@ -1,0 +1,20 @@
+{
+  "dataBaseVersion": 1.1,
+  "merchants": [
+    {
+      "id": 1,
+      "name": "Sulpak",
+      "city": "Almaty"
+    },
+    {
+      "id": 2,
+      "name": "Mechta",
+      "city": "Astana"
+    },
+    {
+      "id": 3,
+      "name": "Alser",
+      "city": "Kostanay"
+    }
+  ]
+}
